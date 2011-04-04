@@ -1,0 +1,10 @@
+c:\Source\CssFlattener\CssFlattener\bin\Debug\CssFlattener.dll
+c:\Source\CssFlattener\CssFlattener\bin\Debug\CssFlattener.pdb
+c:\Source\CssFlattener\CssFlattener\bin\Debug\HtmlAgilityPack.dll
+c:\Source\CssFlattener\CssFlattener\bin\Debug\log4net.dll
+c:\Source\CssFlattener\CssFlattener\bin\Debug\HtmlAgilityPack.pdb
+c:\Source\CssFlattener\CssFlattener\bin\Debug\HtmlAgilityPack.xml
+c:\Source\CssFlattener\CssFlattener\bin\Debug\log4net.xml
+c:\Source\CssFlattener\CssFlattener\obj\Debug\ResolveAssemblyReference.cache
+c:\Source\CssFlattener\CssFlattener\obj\Debug\CssFlattener.dll
+c:\Source\CssFlattener\CssFlattener\obj\Debug\CssFlattener.pdb
