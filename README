@@ -1,3 +1,9 @@
 CssFlattener
 ====================
-C# port of http://www.pelagodesign.com/sidecar/emogrifier/. Flattens the css of a html page and places the CSS styles directly on the html elements. Needed to properly display the html in Gmail.
+C# port of 
+
+http://www.pelagodesign.com/sidecar/emogrifier/. 
+
+Flattens the css of a html page and places the CSS styles directly on the html elements. 
+
+Needed to properly display the html in Gmail.
